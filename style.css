@@ -2,6 +2,7 @@ html,
 body {
 	height: 100%;
 	margin: 0;
+	font-family: 'Readex Pro', sans-serif;
 }
 
 body {
@@ -10,7 +11,7 @@ body {
 
 .header {
 	color: white;
-	font-family: 'Yeon Sung';
+	font-family: 'Yeon Sung' !important;
 	font-size: 45px;
 	letter-spacing: 10px;
 	margin-top: 80px;
